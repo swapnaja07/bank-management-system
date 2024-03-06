@@ -33,10 +33,6 @@ Hurray!! the banking web application is setup and is ready to be used.
 
 =================================================================
 
-If any error, please let me know
-
-
-mail@swapnaja409@gmail.com
 
 
 
