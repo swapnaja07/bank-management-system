@@ -23,11 +23,11 @@ Login Credentials (Demo)
 
 Customer Login
 ID : 10111
-Password : junaid@123
+Password : bank@123
 
 Staff Login
 ID : 210001
-Password : junaid@123
+Password : bank@123
 
 Hurray!! the banking web application is setup and is ready to be used.
 
@@ -35,29 +35,12 @@ Hurray!! the banking web application is setup and is ready to be used.
 
 If any error, please let me know
 
-My Contact :
-+91 7278523122 (Call + WhatsApp)
-mail@junaidashraf.com
-junaid@jscreeper.com
-My Website : https://www.junaidashraf.com (Personal)
-			 https://www.jscreeper.com (Professional)
+
+mail@swapnaja409@gmail.com
+
+
 
 =================================================================
 
-For more projects like this or real big projects please connect to me or my team to get a best budget.
-
-Here is my Web and App development business website link and email. We also provide Web Hosting. Please get in touch.
-
-https://www.jscreeper.com
-support@jscreeper.com
-+91 7278523122 (Call + WhatsApp)
-
-=================================================================
-
-I am also avaiable at Freelancer, hire me at
-
-https://www.freelancer.in/u/JunaidAshraf10
-
-=================================================================
 
 Have a great day.
