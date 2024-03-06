@@ -28,7 +28,7 @@ Password : bank@123
 
 Staff Login
 ID : 210001
-Password : bank@123
+Password : staffbank@123
 
 Hurray!! the banking web application is setup and is ready to be used.
 
